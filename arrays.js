@@ -13,3 +13,8 @@ function destructivelyAddElementToBeginningOfArray(arr, element){
 function addElementToEndOfArray(arr, element){
   
 }
+
+destructivelyAddElementToEndOfArray(arr, element)
+{
+  
+}
